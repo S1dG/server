@@ -1,0 +1,7 @@
+flask~=3.0.2
+PyJWT
+python-dotenv~=1.0.1
+flask-sqlalchemy
+flask-jwt-extended
+psycopg2~=2.9.9
+Werkzeug~=3.0.1
